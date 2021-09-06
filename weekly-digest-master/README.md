@@ -58,12 +58,3 @@ The app is using [Javascript Standard Style](https://standardjs.com/) for lintin
 
 ## Test Framework
 The app is using [Jest](https://jestjs.io/) for Javascript testing.
-
-## Credits
-This project is developed and maintained by [Abhijeet Singh](https://github.com/abhijeetps).
-
-It is one of the [Google Summer of Code 2018](https://summerofcode.withgoogle.com/) Projects. 
-
-[Click here to view this Project \"Weekly Digest\" on Google Summer of Code 2018 Projects](https://summerofcode.withgoogle.com/projects/#5611987044663296)
-
-I would like to thanks [Gregor Martynus](https://github.com/gr2m) and [Wilhelm Klopp](https://github.com/wilhelmklopp) for being really awesome mentors and guiding me for this project. :heart:
